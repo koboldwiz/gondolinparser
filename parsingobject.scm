@@ -1,5 +1,3 @@
-(load "tokenizer.scm") ;; from gondolinutil
-
 (define (make-parsing-object object)
 	(let* ((*rawvalue object))
 		)
